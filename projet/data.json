@@ -1,0 +1,71 @@
+{
+    "447084469212545034": {
+        "inventaire": {
+            "argent": 12,
+            "armes": []
+        }
+    },
+    "cartel": {},
+    "armes": {
+        "Pompe": {
+            "vies": 5,
+            "proba": {
+                "maisons": 80,
+                "magazins": 55,
+                "banques": 35
+            }
+        },
+        "Couteau": {
+            "vies": 1,
+            "proba": {
+                "maisons": 20,
+                "magazins": 5,
+                "banques": 1
+            }
+        },
+        "Mitraillette M16": {
+            "vies": 5,
+            "proba": {
+                "maisons": 70,
+                "magazins": 70,
+                "banques": 30
+            }
+        },
+        "Pistolet Art\u00e9mis 23mn": {
+            "vies": 3,
+            "proba": {
+                "maisons": 60,
+                "magazins": 40,
+                "banques": 10
+            }
+        },
+        "Dynamite": {
+            "vies": 1,
+            "proba": {
+                "maisons": 1,
+                "magazins": 1,
+                "banques": 70
+            }
+        }
+    },
+    "illegal_shop": {
+        "Pompe": 2300,
+        "Couteau": 300,
+        "Mitraillette M16": 1200,
+        "Pistolet Art\u00e9mis 23mn": 700,
+        "Dynamite": 10000,
+        "1 kg de drogue": 25,
+        "plantation personnelle de drogue": 300
+    },
+    "crate_inc": {
+        "pizzeria": 10000,
+        "magazin": 100000,
+        "Banque": 500000
+    },
+    "create_inc": {
+        "pizzeria": 10000,
+        "magazin": 100000,
+        "Banque": 500000
+    },
+    "inc": {}
+}
